@@ -1,0 +1,154 @@
+{
+  "json_data": [
+    {
+      "fruit_id": 1,
+      "fruit_name": "Apple",
+      "temperature": 32,
+      "humidity": 65,
+      "color_score": 0.85,
+      "texture_score": 0.78,
+      "days_stored": 2,
+      "freshness_label": "Fresh"
+    },
+    {
+      "fruit_id": 2,
+      "fruit_name": "Banana",
+      "temperature": 29,
+      "humidity": 72,
+      "color_score": 0.58,
+      "texture_score": 0.52,
+      "days_stored": 5,
+      "freshness_label": "Not Fresh"
+    },
+    {
+      "fruit_id": 3,
+      "fruit_name": "Orange",
+      "temperature": 30,
+      "humidity": 60,
+      "color_score": 0.82,
+      "texture_score": 0.80,
+      "days_stored": 3,
+      "freshness_label": "Fresh"
+    },
+    {
+      "fruit_id": 4,
+      "fruit_name": "Mango",
+      "temperature": 35,
+      "humidity": 78,
+      "color_score": 0.45,
+      "texture_score": 0.40,
+      "days_stored": 7,
+      "freshness_label": "Not Fresh"
+    },
+    {
+      "fruit_id": 5,
+      "fruit_name": "Grapes",
+      "temperature": 26,
+      "humidity": 55,
+      "color_score": 0.92,
+      "texture_score": 0.90,
+      "days_stored": 1,
+      "freshness_label": "Fresh"
+    },
+    {
+      "fruit_id": 6,
+      "fruit_name": "Apple",
+      "temperature": 31,
+      "humidity": 67,
+      "color_score": 0.80,
+      "texture_score": 0.75,
+      "days_stored": 4,
+      "freshness_label": "Fresh"
+    },
+    {
+      "fruit_id": 7,
+      "fruit_name": "Banana",
+      "temperature": 30,
+      "humidity": 74,
+      "color_score": 0.55,
+      "texture_score": 0.50,
+      "days_stored": 6,
+      "freshness_label": "Not Fresh"
+    },
+    {
+      "fruit_id": 8,
+      "fruit_name": "Orange",
+      "temperature": 28,
+      "humidity": 62,
+      "color_score": 0.78,
+      "texture_score": 0.76,
+      "days_stored": 2,
+      "freshness_label": "Fresh"
+    },
+    {
+      "fruit_id": 9,
+      "fruit_name": "Mango",
+      "temperature": 36,
+      "humidity": 80,
+      "color_score": 0.42,
+      "texture_score": 0.38,
+      "days_stored": 8,
+      "freshness_label": "Not Fresh"
+    },
+    {
+      "fruit_id": 10,
+      "fruit_name": "Grapes",
+      "temperature": 27,
+      "humidity": 58,
+      "color_score": 0.88,
+      "texture_score": 0.85,
+      "days_stored": 2,
+      "freshness_label": "Fresh"
+    },
+    {
+      "fruit_id": 11,
+      "fruit_name": "Apple",
+      "temperature": 33,
+      "humidity": 66,
+      "color_score": 0.83,
+      "texture_score": 0.77,
+      "days_stored": 3,
+      "freshness_label": "Fresh"
+    },
+    {
+      "fruit_id": 12,
+      "fruit_name": "Banana",
+      "temperature": 31,
+      "humidity": 76,
+      "color_score": 0.50,
+      "texture_score": 0.48,
+      "days_stored": 7,
+      "freshness_label": "Not Fresh"
+    },
+    {
+      "fruit_id": 13,
+      "fruit_name": "Orange",
+      "temperature": 29,
+      "humidity": 61,
+      "color_score": 0.81,
+      "texture_score": 0.79,
+      "days_stored": 4,
+      "freshness_label": "Fresh"
+    },
+    {
+      "fruit_id": 14,
+      "fruit_name": "Mango",
+      "temperature": 34,
+      "humidity": 77,
+      "color_score": 0.48,
+      "texture_score": 0.44,
+      "days_stored": 6,
+      "freshness_label": "Not Fresh"
+    },
+    {
+      "fruit_id": 15,
+      "fruit_name": "Grapes",
+      "temperature": 25,
+      "humidity": 54,
+      "color_score": 0.93,
+      "texture_score": 0.91,
+      "days_stored": 1,
+      "freshness_label": "Fresh"
+    }
+  ]
+}
