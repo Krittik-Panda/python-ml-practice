@@ -1,0 +1,1 @@
+1) does python support multiple and multi level inheritances ?
